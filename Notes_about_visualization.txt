@@ -1,0 +1,20 @@
+Types of messages that we usally send out when we are creating impactful visualizations in business.
+Types of messages are :
+Comparison : To compare one value with the other like region-wise sales
+We can use following charts 
+Column chart, Bar chart, Line chart, Scatter chart
+
+Distribution : to show the spread of the data values over categories or continuous values
+We can use following charts
+Histogram, Boxplot, KDE kernel density estimation plot (smooth form of histogram)
+
+Breakup of a whole : These charts are used to analyze, how various parts comprise the whole
+Eg, Revenue comparison by different region.
+We can use following charts
+Pie chart, Donut chart, Stacked column chart, Stacked bar chart
+
+relationship : It helps to find the relationship between different variables.
+Scatter plot, Line chart
+ 
+Trends : To visualize trends of values over time and categories.
+Line chart, Area chart, Column chart.
